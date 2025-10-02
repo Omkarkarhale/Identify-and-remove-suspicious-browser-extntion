@@ -1,4 +1,4 @@
-# Identify-and-remove-suspicious-browser-extntion
+# Identify-and-remove-suspicious-browser-extention
 
 This project helps users identify, review, and remove potentially harmful or unnecessary browser extensions. While browser extensions can improve productivity, some come with serious privacy or security risks. This guide walks you through how to identify and handle them safely.
 
